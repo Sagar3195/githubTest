@@ -12,5 +12,7 @@ Sometimes you want bullet points.
 
 * Start a line with a star.
 * Profit!!!
-
+##Images
+If you want to embed images, this is how you do it:
+![Image of Wolvorine](https://octodex.github.com/xtocat/)
 
